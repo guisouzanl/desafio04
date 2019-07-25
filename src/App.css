@@ -133,7 +133,7 @@ nav div i {
 .sideMenu {
   display: flex;
   border-radius: 20px;
-  background: #eeeeee;
+  background: rgb(201, 201, 201);
   padding-top: 100px;
   margin: 20px;
   width: 350px;
